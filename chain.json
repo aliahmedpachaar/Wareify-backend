@@ -1,0 +1,3050 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2025-07-10T07:34:23.054Z",
+        "data": [
+            {
+                "name": "Shirt",
+                "category": "clothes",
+                "price": 200,
+                "quantity": 19,
+                "description": "xxx",
+                "savedAt": "2025-07-10T07:35:26.760Z"
+            },
+            {
+                "name": "Lens",
+                "category": "Optics",
+                "price": 50,
+                "quantity": 9,
+                "description": "x",
+                "savedAt": "2025-07-10T09:20:33.660Z"
+            },
+            {
+                "name": "Air Jordan",
+                "category": "Shoes",
+                "price": 100,
+                "quantity": 11,
+                "description": "xx",
+                "savedAt": "2025-07-10T09:21:26.751Z"
+            },
+            {
+                "name": "Glasses",
+                "category": "optics",
+                "price": 100,
+                "quantity": 83,
+                "description": "xx",
+                "savedAt": "2025-07-10T09:34:56.245Z"
+            },
+            {
+                "name": "Sandwich",
+                "category": "Starbucks",
+                "price": 9,
+                "quantity": 1,
+                "description": "PAy full price",
+                "savedAt": "2025-07-10T10:23:25.479Z"
+            },
+            {
+                "name": "Ray ban glasses",
+                "category": "Optics",
+                "price": 100,
+                "quantity": 9,
+                "description": "z",
+                "savedAt": "2025-07-16T04:04:10.867Z"
+            },
+            {
+                "name": "b",
+                "category": "w",
+                "price": 1,
+                "quantity": 1,
+                "description": "x",
+                "savedAt": "2025-07-16T07:25:30.400Z"
+            },
+            {
+                "name": "Glasses",
+                "category": "Optics",
+                "price": 90,
+                "quantity": 12,
+                "description": "x",
+                "savedAt": "2025-07-16T07:35:06.358Z"
+            },
+            {
+                "name": "glasses",
+                "category": "optics",
+                "price": 12,
+                "quantity": 100,
+                "description": "x",
+                "savedAt": "2025-07-16T07:55:09.395Z"
+            },
+            {
+                "name": "c",
+                "category": "b",
+                "price": 7,
+                "quantity": 1,
+                "description": "",
+                "savedAt": "2025-07-16T08:05:25.034Z"
+            }
+        ],
+        "previousHash": "0",
+        "miningTimeMs": 0,
+        "hash": "dc32bd40f21c02fa3bc4631036bd8efe1843abb765dc1676f630879993be9efc"
+    },
+    {
+        "index": 1,
+        "timestamp": "2025-07-16T08:07:13.436Z",
+        "data": [
+            {
+                "name": "s",
+                "category": "a",
+                "price": 1,
+                "quantity": 1,
+                "description": "",
+                "savedAt": "2025-07-16T08:07:13.436Z"
+            },
+            {
+                "name": "Ray Ban glasses",
+                "category": "Optics",
+                "price": 10,
+                "quantity": 10,
+                "description": "x",
+                "savedAt": "2025-07-16T08:07:59.042Z"
+            },
+            {
+                "name": "Lens",
+                "category": "OPtics",
+                "price": 90,
+                "quantity": 10,
+                "description": "",
+                "savedAt": "2025-07-16T08:11:01.516Z"
+            },
+            {
+                "name": "Sunglasses",
+                "category": "Optics",
+                "price": 100,
+                "quantity": 10,
+                "description": "x",
+                "savedAt": "2025-07-16T08:24:20.367Z"
+            },
+            {
+                "name": "Sunglass",
+                "category": "Optics",
+                "price": 90,
+                "quantity": 10,
+                "description": "x",
+                "savedAt": "2025-07-16T08:26:15.270Z"
+            },
+            {
+                "name": "Sunglass ray ban",
+                "category": "Optics",
+                "price": 90,
+                "quantity": 10,
+                "description": "x",
+                "savedAt": "2025-07-16T08:26:38.153Z",
+                "isEdit": true
+            },
+            {
+                "name": "Sunglass ray ban",
+                "category": "Optics",
+                "price": 900,
+                "quantity": 10,
+                "description": "x",
+                "savedAt": "2025-07-16T08:26:56.848Z",
+                "isEdit": true
+            },
+            {
+                "name": "glasses",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-16T18:14",
+                "imageUrl": null,
+                "savedAt": "2025-07-16T10:14:59.834Z"
+            },
+            {
+                "name": "Glasses",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-16T18:31",
+                "imageUrl": null,
+                "savedAt": "2025-07-16T10:31:32.724Z"
+            },
+            {
+                "name": "Glasses",
+                "manufacturer": "Rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-16T18:45",
+                "category": "optics",
+                "price": "100",
+                "imageUrl": null,
+                "savedAt": "2025-07-16T10:45:02.788Z"
+            },
+            {
+                "name": "glasses",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-18T17:44",
+                "category": "optics",
+                "price": "21",
+                "stock": "12",
+                "imageUrl": null,
+                "savedAt": "2025-07-18T09:44:24.636Z"
+            },
+            {
+                "name": "glasses",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-18T17:45",
+                "category": "optics",
+                "price": "90",
+                "stock": "90",
+                "imageUrl": null,
+                "savedAt": "2025-07-18T09:45:15.405Z"
+            },
+            {
+                "name": "sunglasses",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-18T17:46",
+                "category": "optics",
+                "price": "90",
+                "stock": "9",
+                "imageUrl": null,
+                "savedAt": "2025-07-18T09:46:06.895Z"
+            },
+            {
+                "name": "lens",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "033",
+                "timestamp": "2025-07-18T17:47",
+                "category": "optics",
+                "price": "190",
+                "stock": "9",
+                "imageUrl": null,
+                "savedAt": "2025-07-18T09:47:32.282Z"
+            },
+            {
+                "name": "Frame",
+                "manufacturer": "masterpiece",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "098",
+                "timestamp": "2025-07-18T19:41",
+                "category": "Optics",
+                "price": "200",
+                "stock": "99",
+                "imageUrl": "/uploads/1752838874756-529694412.jpeg",
+                "savedAt": "2025-07-18T11:41:14.812Z"
+            },
+            {
+                "name": "t",
+                "manufacturer": "t",
+                "manufacturedAt": "t",
+                "sellingLocation": "t",
+                "batchNo": "5",
+                "timestamp": "2025-07-18T19:48",
+                "category": "t",
+                "price": "5",
+                "stock": "5",
+                "imageUrl": "/uploads/1752839326265-919743781.jpeg",
+                "savedAt": "2025-07-18T11:48:46.303Z"
+            },
+            {
+                "name": "glasses",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-18T20:08",
+                "category": "optics",
+                "price": "90",
+                "stock": "99",
+                "imageUrl": "/uploads/1752840500357-740620417.jpeg",
+                "savedAt": "2025-07-18T12:08:20.390Z"
+            },
+            {
+                "name": "g",
+                "manufacturer": "h",
+                "manufacturedAt": "8",
+                "sellingLocation": "y",
+                "batchNo": "8",
+                "timestamp": "2025-07-18T20:36",
+                "category": "h",
+                "price": "7",
+                "stock": "8",
+                "imageUrl": "/uploads/1752842188465-39760030.jpeg",
+                "savedAt": "2025-07-18T12:36:28.671Z"
+            },
+            {
+                "name": "r",
+                "manufacturer": "r",
+                "manufacturedAt": "g",
+                "sellingLocation": "r",
+                "batchNo": "6",
+                "timestamp": "2025-07-18T20:38",
+                "category": "r",
+                "price": "4",
+                "stock": "6",
+                "imageUrl": "/uploads/1752842346105-745105745.jpeg",
+                "savedAt": "2025-07-18T12:39:06.142Z"
+            },
+            {
+                "name": "d",
+                "manufacturer": "d",
+                "manufacturedAt": "d",
+                "sellingLocation": "3",
+                "batchNo": "3",
+                "timestamp": "2025-07-18T21:35",
+                "category": "d",
+                "price": "3",
+                "stock": "3",
+                "imageUrl": "/uploads/1752845750919-492123307.jpeg",
+                "savedAt": "2025-07-18T13:35:50.977Z"
+            }
+        ],
+        "previousHash": "dc32bd40f21c02fa3bc4631036bd8efe1843abb765dc1676f630879993be9efc",
+        "miningTimeMs": 0,
+        "hash": "76a77f1481573d06fcf593e50c68f4cd49ab23aac1eccb67986324ad227b7926"
+    },
+    {
+        "index": 2,
+        "timestamp": "2025-07-18T13:38:09.642Z",
+        "data": [
+            {
+                "name": "fff",
+                "manufacturer": "f",
+                "manufacturedAt": "ff",
+                "sellingLocation": "f",
+                "batchNo": "434",
+                "timestamp": "2025-07-18T21:38",
+                "category": "ff",
+                "price": "4",
+                "stock": "4",
+                "imageUrl": "/uploads/1752845889604-487137704.jpeg",
+                "savedAt": "2025-07-18T13:38:09.642Z"
+            },
+            {
+                "name": "dd",
+                "manufacturer": "dd",
+                "manufacturedAt": "ff",
+                "sellingLocation": "ddd",
+                "batchNo": "33",
+                "timestamp": "2025-07-18T21:42",
+                "category": "ccc",
+                "price": "33",
+                "stock": "23",
+                "imageUrl": "/uploads/1752846142389-163617108.jpeg",
+                "savedAt": "2025-07-18T13:42:22.419Z"
+            },
+            {
+                "name": "glasses",
+                "manufacturer": "e",
+                "manufacturedAt": "ff",
+                "sellingLocation": "ee",
+                "batchNo": "33",
+                "timestamp": "2025-07-18T21:43",
+                "category": "optics",
+                "price": "33",
+                "stock": "33",
+                "imageUrl": "/uploads/1752846240725-494311153.png",
+                "savedAt": "2025-07-18T13:44:00.787Z"
+            },
+            {
+                "name": "sunglasssess",
+                "manufacturer": "dfd",
+                "manufacturedAt": "sf",
+                "sellingLocation": "ff",
+                "batchNo": "232",
+                "timestamp": "2025-07-18T21:44",
+                "category": "sddd",
+                "price": "33",
+                "stock": "44",
+                "imageUrl": "/uploads/1752846308104-432783860.jpeg",
+                "savedAt": "2025-07-18T13:45:08.239Z"
+            },
+            {
+                "name": "lenses",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-20T16:36",
+                "category": "optics",
+                "price": "19",
+                "stock": "29",
+                "imageUrl": "/uploads/1753000616852-38806914.jpeg",
+                "savedAt": "2025-07-20T08:36:56.905Z"
+            },
+            {
+                "name": "eq",
+                "manufacturer": "da",
+                "manufacturedAt": "wre",
+                "sellingLocation": "ad",
+                "batchNo": "12",
+                "timestamp": "2025-07-20T17:18",
+                "category": "ad",
+                "price": "21",
+                "stock": "12",
+                "imageUrl": null,
+                "savedAt": "2025-07-20T09:18:10.201Z"
+            },
+            {
+                "name": "dd",
+                "manufacturer": "ee",
+                "manufacturedAt": "xcc",
+                "sellingLocation": "se",
+                "batchNo": "33",
+                "timestamp": "2025-07-20T17:35",
+                "category": "ee",
+                "price": "33",
+                "stock": "33",
+                "imageUrl": null,
+                "savedAt": "2025-07-20T09:35:23.659Z"
+            },
+            {
+                "name": "hh",
+                "manufacturer": "hkjkkj",
+                "manufacturedAt": "ghgug",
+                "sellingLocation": "yiuh",
+                "batchNo": "87",
+                "timestamp": "2025-07-20T17:43",
+                "category": "hhhk",
+                "price": "797",
+                "stock": "787997",
+                "imageUrl": "/uploads/1753004590164-369397809.jpeg",
+                "savedAt": "2025-07-20T09:43:10.238Z"
+            },
+            {
+                "name": "pakistanglasses",
+                "manufacturer": "llhr",
+                "manufacturedAt": "lhr",
+                "sellingLocation": "lhr",
+                "batchNo": "323",
+                "timestamp": "2025-07-20T18:00",
+                "category": "eee",
+                "price": "69",
+                "stock": "88",
+                "imageUrl": "/uploads/1753005613553-784414978.jpeg",
+                "savedAt": "2025-07-20T10:00:13.614Z"
+            },
+            {
+                "name": "swedish glasses",
+                "manufacturer": "malmo",
+                "manufacturedAt": "malmo",
+                "sellingLocation": "ddd",
+                "batchNo": "eeee",
+                "timestamp": "2025-07-20T18:05",
+                "category": "optics",
+                "price": "88",
+                "stock": "77",
+                "imageUrl": "/uploads/1753005927631-432239172.jpeg",
+                "savedAt": "2025-07-20T10:05:27.665Z"
+            },
+            {
+                "name": "swedishhhhhhh",
+                "manufacturer": "eeee",
+                "manufacturedAt": "sfffr",
+                "sellingLocation": "adda",
+                "batchNo": "344",
+                "timestamp": "2025-07-20T18:07",
+                "category": "dsd",
+                "price": "8888",
+                "stock": "555",
+                "imageUrl": "/uploads/1753006036533-383516511.jpeg",
+                "savedAt": "2025-07-20T10:07:16.575Z"
+            },
+            {
+                "name": "ddde",
+                "manufacturer": "edd",
+                "manufacturedAt": "ccc",
+                "sellingLocation": "dddsd",
+                "batchNo": "3233",
+                "timestamp": "2025-07-20T18:18",
+                "category": "ddd",
+                "price": "333",
+                "stock": "222",
+                "imageUrl": "/uploads/1753006687305-787150497.jpeg",
+                "savedAt": "2025-07-20T10:18:07.337Z"
+            },
+            {
+                "name": "qqqqqqqqqqqq",
+                "manufacturer": "asssssssss",
+                "manufacturedAt": "wwwwww",
+                "sellingLocation": "ssssssss",
+                "batchNo": "111",
+                "timestamp": "2025-07-20T18:22",
+                "category": "oo",
+                "price": "22222222",
+                "stock": "111",
+                "imageUrl": "/uploads/1753006985530-529855868.jpeg",
+                "savedAt": "2025-07-20T10:23:05.566Z"
+            },
+            {
+                "name": "aaaaaaaaaaaa",
+                "manufacturer": "wwwwwwww",
+                "manufacturedAt": "rrrrrrr",
+                "sellingLocation": "eeeeeeeeee",
+                "batchNo": "22",
+                "timestamp": "2025-07-20T18:27",
+                "category": "qqqqqqqqqq",
+                "price": "111111111",
+                "stock": "1111",
+                "imageUrl": "/uploads/1753007255296-528363918.jpeg",
+                "savedAt": "2025-07-20T10:27:35.338Z"
+            },
+            {
+                "name": "Eyeglasses",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-20T18:53",
+                "category": "Optics",
+                "price": "90",
+                "stock": "99",
+                "imageUrl": "/uploads/1753008836390-479447303.jpeg",
+                "savedAt": "2025-07-20T10:53:56.428Z"
+            },
+            {
+                "name": "Eye glasess",
+                "manufacturer": "Rayban",
+                "manufacturedAt": "kuala lumpur",
+                "sellingLocation": "kuala lumpur",
+                "batchNo": "012",
+                "timestamp": "2025-07-21T16:47",
+                "category": "Optics",
+                "price": "90",
+                "stock": "19",
+                "imageUrl": "/uploads/1753087644639-670198318.jpeg",
+                "savedAt": "2025-07-21T08:47:24.686Z"
+            },
+            {
+                "name": "Sunglasses",
+                "manufacturer": "Rayban",
+                "manufacturedAt": "KL",
+                "sellingLocation": "KL",
+                "batchNo": "012",
+                "timestamp": "2025-07-21T16:48",
+                "category": "OPtics",
+                "price": "90",
+                "stock": "9",
+                "imageUrl": "/uploads/1753087699723-231966448.jpeg",
+                "savedAt": "2025-07-21T08:48:19.734Z"
+            },
+            {
+                "name": "glasses",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-22T20:22",
+                "category": "optics",
+                "price": "90",
+                "stock": "90",
+                "imageUrl": "/uploads/1753186970270-526568800.jpeg",
+                "savedAt": "2025-07-22T12:22:50.307Z"
+            },
+            {
+                "name": "bluraylens",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "022",
+                "timestamp": "2025-07-22T20:25",
+                "category": "optics",
+                "price": "90",
+                "stock": "77",
+                "imageUrl": "/uploads/1753187132918-303553197.jpeg",
+                "savedAt": "2025-07-22T12:25:32.948Z"
+            },
+            {
+                "name": "frame",
+                "manufacturer": "rayban",
+                "manufacturedAt": "kl",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "timestamp": "2025-07-22T21:22",
+                "category": "optics",
+                "price": "50",
+                "stock": "9",
+                "imageUrl": "/uploads/1753190557953-900974414.jpeg",
+                "savedAt": "2025-07-22T13:22:37.987Z"
+            }
+        ],
+        "previousHash": "76a77f1481573d06fcf593e50c68f4cd49ab23aac1eccb67986324ad227b7926",
+        "miningTimeMs": 0,
+        "hash": "39f1228dde208b80beda39cb8d93b482951ac0fb99267e04a53abd4a039a6566"
+    },
+    {
+        "index": 3,
+        "timestamp": "2025-07-28T13:21:59.557Z",
+        "data": [
+            {
+                "productId": "68877977df76c1762ae510d4",
+                "name": "masterpiece",
+                "category": "optics",
+                "price": 90,
+                "stock": 98,
+                "description": "xx",
+                "manufacturer": "d",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753708919520-download (2).jpeg",
+                "savedAt": "2025-07-28T13:21:59.557Z"
+            },
+            {
+                "productId": "6887798cdf76c1762ae510d7",
+                "name": "masterpiece",
+                "category": "optics",
+                "price": 90,
+                "stock": 98,
+                "description": "xx",
+                "manufacturer": "d",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753708940119-download (2).jpeg",
+                "savedAt": "2025-07-28T13:22:20.143Z"
+            },
+            {
+                "productId": "68877991df76c1762ae510d9",
+                "name": "masterpiece",
+                "category": "optics",
+                "price": 90,
+                "stock": 98,
+                "description": "xx",
+                "manufacturer": "d",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753708945132-download (3).jpeg",
+                "savedAt": "2025-07-28T13:22:25.154Z"
+            },
+            {
+                "productId": "68877a3725faa4be32b3315a",
+                "name": "guccii glasses",
+                "category": "optics",
+                "price": 99,
+                "stock": 170,
+                "description": "xx",
+                "manufacturer": "gucci",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753709111264-download (3).jpeg",
+                "savedAt": "2025-07-28T13:25:11.313Z"
+            },
+            {
+                "productId": "68877a6a25faa4be32b33165",
+                "name": "lv glass",
+                "category": "optics",
+                "price": 944,
+                "stock": 95,
+                "description": "xx",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "kl",
+                "batchNo": "95490583",
+                "imageUrl": "/uploads/1753709162232-download (2).jpeg",
+                "savedAt": "2025-07-28T13:26:02.243Z"
+            },
+            {
+                "productId": "68877aec25faa4be32b33171",
+                "name": "dior glasses",
+                "category": "optics",
+                "price": 996,
+                "stock": 45,
+                "description": "xx",
+                "manufacturer": "dior",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "034",
+                "imageUrl": "/uploads/1753709292256-download (2).jpeg",
+                "savedAt": "2025-07-28T13:28:12.289Z"
+            },
+            {
+                "productId": "68877b6d25faa4be32b3317f",
+                "name": "prada glass",
+                "category": "optics",
+                "price": 909,
+                "stock": 88,
+                "description": "xx",
+                "manufacturer": "prada",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "kl",
+                "batchNo": "934",
+                "imageUrl": "/uploads/1753709421025-download (2).jpeg",
+                "savedAt": "2025-07-28T13:30:21.053Z"
+            },
+            {
+                "productId": "68877bd4aa24539ba6515ba0",
+                "name": "vvv",
+                "category": "optics",
+                "price": 88,
+                "stock": 88,
+                "description": "kk",
+                "manufacturer": "jkjk",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "ikk",
+                "batchNo": "888",
+                "imageUrl": "/uploads/1753709524977-download (2).jpeg",
+                "savedAt": "2025-07-28T13:32:05.029Z"
+            },
+            {
+                "productId": "68877c37aa24539ba6515ba9",
+                "name": "ff",
+                "category": "e3",
+                "price": 44,
+                "stock": 434,
+                "description": "ff",
+                "manufacturer": "ff",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "aa",
+                "batchNo": "32",
+                "imageUrl": "/uploads/1753709623902-download (2).jpeg",
+                "savedAt": "2025-07-28T13:33:43.928Z"
+            },
+            {
+                "productId": "68877cd5aa24539ba6515bab",
+                "name": "hahahahaha",
+                "category": "ddd",
+                "price": 44,
+                "stock": 44,
+                "description": "fff",
+                "manufacturer": "wee",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "wooooo",
+                "batchNo": "wwwwww",
+                "imageUrl": "/uploads/1753709781960-download (2).jpeg",
+                "savedAt": "2025-07-28T13:36:21.976Z"
+            },
+            {
+                "productId": "68877de3aa24539ba6515bf4",
+                "name": "ggg",
+                "category": "yyyyy",
+                "price": 666,
+                "stock": 555,
+                "description": "xxx",
+                "manufacturer": "dddd",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "kl",
+                "batchNo": "664",
+                "imageUrl": "/uploads/1753710051513-download (2).jpeg",
+                "savedAt": "2025-07-28T13:40:51.524Z"
+            },
+            {
+                "productId": "68877efef630260d8657ad1f",
+                "name": "dfffffff",
+                "category": "wwwwwwwwr",
+                "price": 555554,
+                "stock": 2,
+                "description": "x",
+                "manufacturer": "5rf",
+                "manufacturedAt": "2025-07-28",
+                "sellingLocation": "fffff",
+                "batchNo": "w43",
+                "imageUrl": "/uploads/1753710334309-download (2).jpeg",
+                "savedAt": "2025-07-28T13:45:34.337Z"
+            },
+            {
+                "productId": "6888761ef630260d8657ad62",
+                "name": "eyeglasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 80,
+                "description": "x",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "09",
+                "imageUrl": "/uploads/1753773598488-download (2).jpeg",
+                "savedAt": "2025-07-29T07:19:58.506Z"
+            },
+            {
+                "productId": "6888764ef630260d8657ad68",
+                "name": "gucciglasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 7,
+                "description": "x",
+                "manufacturer": "gucci",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "098",
+                "imageUrl": "/uploads/1753773646772-download (2).jpeg",
+                "savedAt": "2025-07-29T07:20:46.786Z"
+            },
+            {
+                "productId": "68888c6ccb2993bf108a200a",
+                "name": "gucciglasses",
+                "category": "optics",
+                "price": 89,
+                "stock": 9,
+                "description": "x",
+                "manufacturer": "gucci",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "032",
+                "imageUrl": "/uploads/1753779308288-download (1).jpeg",
+                "savedAt": "2025-07-29T08:55:08.349Z"
+            },
+            {
+                "productId": "68888d49cb2993bf108a2019",
+                "name": "lv glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 8,
+                "description": "x",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "032",
+                "imageUrl": "/uploads/1753779529860-download (3).jpeg",
+                "savedAt": "2025-07-29T08:58:49.898Z"
+            },
+            {
+                "productId": "68888e9111ca5f90707b2711",
+                "name": "dior glasses",
+                "category": "optics",
+                "price": 99,
+                "stock": 444,
+                "description": "xx",
+                "manufacturer": "dior",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "021",
+                "imageUrl": "/uploads/1753779857394-download (3).jpeg",
+                "savedAt": "2025-07-29T09:04:17.418Z"
+            },
+            {
+                "productId": "68888ede11ca5f90707b2713",
+                "name": "sunglasses",
+                "category": "optics",
+                "price": 84,
+                "stock": 3,
+                "description": "x",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "93",
+                "imageUrl": "/uploads/1753779934776-download.jpeg",
+                "savedAt": "2025-07-29T09:05:34.798Z"
+            },
+            {
+                "productId": "68888fde11ca5f90707b2724",
+                "name": "guccccci gasses",
+                "category": "optics",
+                "price": 98,
+                "stock": 3,
+                "description": "x",
+                "manufacturer": "gucccccii",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "0333",
+                "imageUrl": "/uploads/1753780190970-download (1).jpeg",
+                "savedAt": "2025-07-29T09:09:51.013Z"
+            },
+            {
+                "productId": "6888904711ca5f90707b272b",
+                "name": "glasses rayban",
+                "category": "optics",
+                "price": 84,
+                "stock": 4,
+                "description": "xx",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "3",
+                "imageUrl": "/uploads/1753780295734-download (1).jpeg",
+                "savedAt": "2025-07-29T09:11:35.775Z"
+            }
+        ],
+        "previousHash": "39f1228dde208b80beda39cb8d93b482951ac0fb99267e04a53abd4a039a6566",
+        "miningTimeMs": 0,
+        "hash": "f222811a790a4712eee521c583c18986ab5aa2bbf72104aee1911d9a5b2044fa"
+    },
+    {
+        "index": 4,
+        "timestamp": "2025-07-29T09:24:43.892Z",
+        "data": [
+            {
+                "productId": "6888935bac2138ea86b2f4b9",
+                "name": "gucci glasses",
+                "category": "optics",
+                "price": 89,
+                "stock": 4,
+                "description": "x",
+                "manufacturer": "guccccci",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "0494",
+                "imageUrl": "/uploads/1753781083829-download (3).jpeg",
+                "savedAt": "2025-07-29T09:24:43.892Z"
+            },
+            {
+                "productId": "6888981e2cd57717c43a4f37",
+                "name": "gucci glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 4,
+                "description": "x",
+                "manufacturer": "gucci",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "0123",
+                "imageUrl": "/uploads/1753782302056-download.jpeg",
+                "savedAt": "2025-07-29T09:45:02.136Z"
+            },
+            {
+                "productId": "688899092cd57717c43a4f57",
+                "name": "lv glasses",
+                "category": "optics",
+                "price": 898,
+                "stock": 2,
+                "description": "x",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753782537506-download.jpeg",
+                "savedAt": "2025-07-29T09:48:57.523Z"
+            },
+            {
+                "productId": "688899552cd57717c43a4f59",
+                "name": "frame",
+                "category": "optics",
+                "price": 93,
+                "stock": 4,
+                "description": "x",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "021",
+                "imageUrl": "/uploads/1753782613239-download.jpeg",
+                "savedAt": "2025-07-29T09:50:13.280Z"
+            },
+            {
+                "productId": "68889a072cd57717c43a4f60",
+                "name": "lens",
+                "category": "optics",
+                "price": 21,
+                "stock": 9,
+                "description": "x",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "0111",
+                "imageUrl": "/uploads/1753782791146-download (2).jpeg",
+                "savedAt": "2025-07-29T09:53:11.185Z"
+            },
+            {
+                "productId": "68889c501cf08ab34a1ccf7d",
+                "name": "lv",
+                "category": "optics",
+                "price": 99,
+                "stock": 111,
+                "description": "x",
+                "manufacturer": "kl",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "02",
+                "imageUrl": "/uploads/1753783376494-download (3).jpeg",
+                "savedAt": "2025-07-29T10:02:56.534Z"
+            },
+            {
+                "productId": "68889dd76645667916a8e5be",
+                "name": "glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 11,
+                "description": "x",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "01",
+                "imageUrl": "/uploads/1753783767365-download (3).jpeg",
+                "savedAt": "2025-07-29T10:09:27.395Z"
+            },
+            {
+                "productId": "6888b4496645667916a8e5d4",
+                "name": "cc",
+                "category": "ee",
+                "price": 44,
+                "stock": 2,
+                "description": "d",
+                "manufacturer": "ds",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "sew",
+                "batchNo": "323",
+                "imageUrl": "/uploads/1753789513848-download.jpeg",
+                "savedAt": "2025-07-29T11:45:13.877Z"
+            },
+            {
+                "productId": "6888b76328477d7f879e9c13",
+                "name": "frame",
+                "category": "optics",
+                "price": 90,
+                "stock": 9,
+                "description": "x",
+                "manufacturer": "kkkk",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753790307465-download.jpeg",
+                "savedAt": "2025-07-29T11:58:27.490Z"
+            },
+            {
+                "productId": "6888b7d128477d7f879e9c1a",
+                "name": "bluraylens",
+                "category": "rayban",
+                "price": 44,
+                "stock": 3,
+                "description": "dd",
+                "manufacturer": "rrw",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "aa",
+                "batchNo": "eee33",
+                "imageUrl": "/uploads/1753790417880-download (2).jpeg",
+                "savedAt": "2025-07-29T12:00:17.912Z"
+            },
+            {
+                "productId": "6888bb849b1e30f930d57600",
+                "name": "glasses",
+                "category": "optics",
+                "price": 4443,
+                "stock": 32,
+                "description": "dd",
+                "manufacturer": "wweeeeq",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "q3e33",
+                "batchNo": "32323232",
+                "imageUrl": "/uploads/1753791364151-download (2).jpeg",
+                "savedAt": "2025-07-29T12:16:04.200Z"
+            },
+            {
+                "productId": "6888bba09b1e30f930d57602",
+                "name": "jrujoe",
+                "category": "dfwerf",
+                "price": 434343,
+                "stock": 232,
+                "description": "cds",
+                "manufacturer": "ewef",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "afefdefe",
+                "batchNo": "3232",
+                "imageUrl": "/uploads/1753791392863-download (3).jpeg",
+                "savedAt": "2025-07-29T12:16:32.871Z"
+            },
+            {
+                "productId": "6888bc66f6874aae8311832f",
+                "name": "jghjgh",
+                "category": "efdf",
+                "price": 4,
+                "stock": 2442,
+                "description": "sff",
+                "manufacturer": "sfv",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "wwww",
+                "batchNo": "3323",
+                "imageUrl": "/uploads/1753791590323-download.jpeg",
+                "savedAt": "2025-07-29T12:19:50.363Z"
+            },
+            {
+                "productId": "6888bdadbbea5e7b5049d07b",
+                "name": "kkk",
+                "category": "eee",
+                "price": 33,
+                "stock": 33,
+                "description": "q",
+                "manufacturer": "eee",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "qqe",
+                "batchNo": "eqe",
+                "imageUrl": "/uploads/1753791917169-download.jpeg",
+                "savedAt": "2025-07-29T12:25:17.206Z"
+            },
+            {
+                "productId": "6888c1063ce08692d9e8a08e",
+                "name": "ddd",
+                "category": "eeww",
+                "price": 332,
+                "stock": 22,
+                "description": "xx",
+                "manufacturer": "weq",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "qeqq",
+                "batchNo": "333",
+                "imageUrl": "/uploads/1753792774407-download (2).jpeg",
+                "savedAt": "2025-07-29T12:39:34.430Z"
+            },
+            {
+                "productId": "6888c1783ce08692d9e8a096",
+                "name": "aassa",
+                "category": "ewe",
+                "price": 112332,
+                "stock": 1,
+                "description": "zxx",
+                "manufacturer": "asq",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "eeeq",
+                "batchNo": "212",
+                "imageUrl": "/uploads/1753792888104-download.jpeg",
+                "savedAt": "2025-07-29T12:41:28.132Z"
+            },
+            {
+                "productId": "6888cc1859b3ed38f19e7ee6",
+                "name": "ff",
+                "category": "tg",
+                "price": 44,
+                "stock": 2,
+                "description": "x",
+                "manufacturer": "hgfh",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "hghf",
+                "batchNo": "6645",
+                "imageUrl": "/uploads/1753795608310-download (1).jpeg",
+                "savedAt": "2025-07-29T13:26:48.349Z"
+            },
+            {
+                "productId": "6888cc77944c21dcaa7bbc76",
+                "name": "dg",
+                "category": "yf",
+                "price": 666,
+                "stock": 54,
+                "description": "x",
+                "manufacturer": "jj",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "gh",
+                "batchNo": "56",
+                "imageUrl": "/uploads/1753795703385-download (3).jpeg",
+                "savedAt": "2025-07-29T13:28:23.431Z"
+            },
+            {
+                "productId": "6888ce08944c21dcaa7bbc7d",
+                "name": "fff",
+                "category": "rwrw",
+                "price": 44,
+                "stock": 333,
+                "description": "x",
+                "manufacturer": "fd",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "dg",
+                "batchNo": "44",
+                "imageUrl": "/uploads/1753796104626-Image.jpeg",
+                "savedAt": "2025-07-29T13:35:04.655Z"
+            },
+            {
+                "productId": "6888d31ef5fb2a2d92d75efd",
+                "name": "jj",
+                "category": "ee",
+                "price": 222,
+                "stock": 122,
+                "description": "xx",
+                "manufacturer": "2www",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "addd",
+                "batchNo": "212",
+                "imageUrl": "/uploads/1753797406949-download (2).jpeg",
+                "savedAt": "2025-07-29T13:56:46.987Z"
+            }
+        ],
+        "previousHash": "f222811a790a4712eee521c583c18986ab5aa2bbf72104aee1911d9a5b2044fa",
+        "miningTimeMs": 0,
+        "hash": "dc3bc60ff48c302b98871b007ceef92c048e067e57a429090fe30a62896f0831"
+    },
+    {
+        "index": 5,
+        "timestamp": "2025-07-29T14:01:29.021Z",
+        "data": [
+            {
+                "productId": "6888d438f5fb2a2d92d75eff",
+                "name": "hh",
+                "category": "www",
+                "price": 2221,
+                "stock": 1,
+                "description": "xx",
+                "manufacturer": "sww",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "sss",
+                "batchNo": "11",
+                "imageUrl": "/uploads/1753797688988-download (3).jpeg",
+                "savedAt": "2025-07-29T14:01:29.021Z"
+            },
+            {
+                "productId": "6888d514f5fb2a2d92d75f01",
+                "name": "ss",
+                "category": "ww",
+                "price": 22,
+                "stock": 1,
+                "description": "x",
+                "manufacturer": "ww",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "sds",
+                "batchNo": "22",
+                "imageUrl": "/uploads/1753797908635-download (2).jpeg",
+                "savedAt": "2025-07-29T14:05:08.682Z"
+            },
+            {
+                "productId": "6888d6bef5fb2a2d92d75f03",
+                "name": "ff",
+                "category": "eee",
+                "price": 22,
+                "stock": 2,
+                "description": "x",
+                "manufacturer": "ddd",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "ddd",
+                "batchNo": "ww33",
+                "imageUrl": "/uploads/1753798334106-download.jpeg",
+                "savedAt": "2025-07-29T14:12:14.131Z"
+            },
+            {
+                "productId": "6888d76bf5fb2a2d92d75f05",
+                "name": "fff",
+                "category": "eee",
+                "price": 22,
+                "stock": 1,
+                "description": "xx",
+                "manufacturer": "eee",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "aaa",
+                "batchNo": "w3333",
+                "imageUrl": "/uploads/1753798507551-download (2).jpeg",
+                "savedAt": "2025-07-29T14:15:07.568Z"
+            },
+            {
+                "productId": "6888d7d21f3136562a17053f",
+                "name": "dd",
+                "category": "ewww",
+                "price": 123,
+                "stock": 1,
+                "description": "xx",
+                "manufacturer": "eee",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "eee",
+                "batchNo": "222",
+                "imageUrl": "/uploads/1753798610293-download (2).jpeg",
+                "savedAt": "2025-07-29T14:16:50.321Z"
+            },
+            {
+                "productId": "6888dabd1f3136562a1705d2",
+                "name": "gucci glasses",
+                "category": "optics",
+                "price": 33,
+                "stock": 22,
+                "description": "dd",
+                "manufacturer": "gucci",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "jp",
+                "batchNo": "222",
+                "imageUrl": "/uploads/1753799357473-download (1).jpeg",
+                "savedAt": "2025-07-29T14:29:17.509Z"
+            },
+            {
+                "productId": "6888db321f3136562a1705dd",
+                "name": "fffr",
+                "category": "e4eer",
+                "price": 4432,
+                "stock": 32,
+                "description": "dd",
+                "manufacturer": "dw",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "dwe",
+                "batchNo": "e33",
+                "imageUrl": "/uploads/1753799474912-download (1).jpeg",
+                "savedAt": "2025-07-29T14:31:14.959Z"
+            },
+            {
+                "productId": "6888e3ab2493ab97e90b1867",
+                "name": "gg",
+                "category": "rrre",
+                "price": 444,
+                "stock": 23,
+                "description": "df",
+                "manufacturer": "rre",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "jrjr",
+                "batchNo": "44",
+                "imageUrl": "/uploads/1753801643605-download (1).jpeg",
+                "savedAt": "2025-07-29T15:07:23.625Z"
+            },
+            {
+                "productId": "6888e4772493ab97e90b186e",
+                "name": "kkk",
+                "category": "ioir",
+                "price": 99,
+                "stock": 12,
+                "description": "xx",
+                "manufacturer": "io",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "rr",
+                "batchNo": "34",
+                "imageUrl": "/uploads/1753801847732-download (3).jpeg",
+                "savedAt": "2025-07-29T15:10:47.748Z"
+            },
+            {
+                "productId": "6888e5492493ab97e90b1876",
+                "name": "gucci glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 120,
+                "description": "xx",
+                "manufacturer": "kk",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "ddd",
+                "batchNo": "123",
+                "imageUrl": "/uploads/1753802057475-download (2).jpeg",
+                "savedAt": "2025-07-29T15:14:17.502Z"
+            },
+            {
+                "productId": "6888e86353b6364cc7448c05",
+                "name": "lv glass",
+                "category": "optics",
+                "price": 99,
+                "stock": 2,
+                "description": "x",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753802851981-download (1).jpeg",
+                "savedAt": "2025-07-29T15:27:32.003Z"
+            },
+            {
+                "productId": "6888ea1b65e1ad946334abec",
+                "name": "dd",
+                "category": "3",
+                "price": 3,
+                "stock": 2,
+                "description": "dd",
+                "manufacturer": "eee",
+                "manufacturedAt": "2025-07-29",
+                "sellingLocation": "dd",
+                "batchNo": "323",
+                "imageUrl": "/uploads/1753803291879-download (2).jpeg",
+                "savedAt": "2025-07-29T15:34:51.914Z"
+            },
+            {
+                "productId": "6889c50e2652d0c56a5dab04",
+                "name": "lvv glasses",
+                "category": "optics",
+                "price": 99,
+                "stock": 44,
+                "description": "xx",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-07-30",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753859342474-download (3).jpeg",
+                "savedAt": "2025-07-30T07:09:02.511Z"
+            },
+            {
+                "productId": "6889c8f02652d0c56a5dab16",
+                "name": "fff",
+                "category": "rrr",
+                "price": 44,
+                "stock": 4,
+                "description": "ff",
+                "manufacturer": "rrr",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "hh",
+                "batchNo": "33",
+                "imageUrl": "/uploads/1753860336989-download (3).jpeg",
+                "savedAt": "2025-07-30T07:25:37.035Z"
+            },
+            {
+                "productId": "6889c9f191ff2c7c3be46e78",
+                "name": "ssssss",
+                "category": "qqqqqq",
+                "price": 32,
+                "stock": 2,
+                "description": "s",
+                "manufacturer": "aaa",
+                "manufacturedAt": "2025-07-30",
+                "sellingLocation": "aaaaaa",
+                "batchNo": "qqqq",
+                "imageUrl": "/uploads/1753860593562-download (2).jpeg",
+                "savedAt": "2025-07-30T07:29:53.610Z"
+            },
+            {
+                "productId": "6889caab91ff2c7c3be46e7e",
+                "name": "glaaaaaaaasssssss",
+                "category": "optics",
+                "price": 33,
+                "stock": 1,
+                "description": "ss",
+                "manufacturer": "aas",
+                "manufacturedAt": "2025-07-30",
+                "sellingLocation": "eeww",
+                "batchNo": "2212",
+                "imageUrl": "/uploads/1753860779382-download.jpeg",
+                "savedAt": "2025-07-30T07:32:59.400Z"
+            },
+            {
+                "productId": "6889cb4591ff2c7c3be46eac",
+                "name": "masterpiece frame",
+                "category": "optics",
+                "price": 11,
+                "stock": 2,
+                "description": "cc",
+                "manufacturer": "masterpiece",
+                "manufacturedAt": "2025-07-30",
+                "sellingLocation": "kl",
+                "batchNo": "1111",
+                "imageUrl": "/uploads/1753860933954-download.jpeg",
+                "savedAt": "2025-07-30T07:35:33.979Z"
+            },
+            {
+                "productId": "6889cbf891ff2c7c3be46eb8",
+                "name": "sunglasses",
+                "category": "optics",
+                "price": 88,
+                "stock": 12,
+                "description": "xx",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-07-30",
+                "sellingLocation": "kl",
+                "batchNo": "batch654",
+                "imageUrl": "/uploads/1753861112047-download (3).jpeg",
+                "savedAt": "2025-07-30T07:38:32.076Z"
+            },
+            {
+                "productId": "6889dc1591ff2c7c3be46ec5",
+                "name": "Eyeglasses",
+                "category": "OPtics",
+                "price": 99,
+                "stock": 100,
+                "description": "x",
+                "manufacturer": "Ray ban",
+                "manufacturedAt": "2025-07-30",
+                "sellingLocation": "KL",
+                "batchNo": "batch011",
+                "imageUrl": "/uploads/1753865237803-download (2).jpeg",
+                "savedAt": "2025-07-30T08:47:17.835Z"
+            },
+            {
+                "productId": "6889e04f91ff2c7c3be46ee6",
+                "name": "eyeglasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 100,
+                "description": "x",
+                "manufacturer": "sunglasses",
+                "manufacturedAt": "2025-07-30",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753866319066-download.jpeg",
+                "savedAt": "2025-07-30T09:05:19.101Z"
+            }
+        ],
+        "previousHash": "dc3bc60ff48c302b98871b007ceef92c048e067e57a429090fe30a62896f0831",
+        "miningTimeMs": 0,
+        "hash": "25debf46afde57e22962f46d5129df9d4d27e8637ca20d46c72bee46c087613e"
+    },
+    {
+        "index": 6,
+        "timestamp": "2025-07-30T09:26:36.213Z",
+        "data": [
+            {
+                "productId": "6889e54c67dcc732a91a95e2",
+                "name": "glasesss",
+                "category": "optics",
+                "price": 90,
+                "stock": 100,
+                "description": "hh",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-07-30",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753867596175-download (2).jpeg",
+                "savedAt": "2025-07-30T09:26:36.213Z",
+                "action": "added"
+            },
+            {
+                "productId": "6889e61d67dcc732a91a95e4",
+                "name": "eee",
+                "category": "oooo",
+                "price": 999,
+                "stock": 9,
+                "description": "xx",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-07-30",
+                "sellingLocation": "kl",
+                "batchNo": "022",
+                "imageUrl": "/uploads/1753867805086-download (3).jpeg",
+                "savedAt": "2025-07-30T09:30:05.112Z",
+                "action": "added"
+            },
+            {
+                "productId": "688b2f2e88c9119e98e9a52b",
+                "name": "cc",
+                "category": "optics",
+                "price": 99,
+                "stock": 5,
+                "description": "d",
+                "manufacturer": "ii",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "kl",
+                "batchNo": "055",
+                "imageUrl": "/uploads/1753952046375-download (3).jpeg",
+                "savedAt": "2025-07-31T08:54:06.392Z",
+                "action": "added"
+            },
+            {
+                "productId": "688b317a88c9119e98e9a531",
+                "name": "zzzzzzz",
+                "category": "xxxxxxx",
+                "price": 4,
+                "stock": 3,
+                "description": "z",
+                "manufacturer": "vvvvv",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "kl",
+                "batchNo": "44444",
+                "imageUrl": "/uploads/1753952634402-download (2).jpeg",
+                "savedAt": "2025-07-31T09:03:54.423Z",
+                "action": "added"
+            },
+            {
+                "productId": "688b4fd9b46624c8c7468c6c",
+                "name": "vvvv",
+                "category": "rrrrrr",
+                "price": 444,
+                "stock": 4,
+                "description": "c",
+                "manufacturer": "ddd",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "kl",
+                "batchNo": "44",
+                "imageUrl": "/uploads/1753960409759-download.jpeg",
+                "savedAt": "2025-07-31T11:13:29.780Z",
+                "action": "added"
+            },
+            {
+                "productId": "688b5526b483f45d3269bceb",
+                "name": "nnn",
+                "category": ",mmmm",
+                "price": 33,
+                "stock": 2,
+                "description": "xx",
+                "manufacturer": "32",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "dd",
+                "batchNo": "ee33",
+                "imageUrl": "/uploads/1753961766626-download.jpeg",
+                "savedAt": "2025-07-31T11:36:06.673Z",
+                "action": "added"
+            },
+            {
+                "productId": "688b566eb483f45d3269bcf2",
+                "name": "eyeglasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 122,
+                "description": "xx",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1753962094747-download (2).jpeg",
+                "savedAt": "2025-07-31T11:41:34.769Z",
+                "action": "added"
+            },
+            {
+                "productId": "688b56d66186a326da1d56f5",
+                "name": "xxx",
+                "category": "ddd",
+                "price": 444,
+                "stock": 44,
+                "description": "ff",
+                "manufacturer": "rr",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "cc",
+                "batchNo": "rr4",
+                "imageUrl": "/uploads/1753962198871-download (1).jpeg",
+                "savedAt": "2025-07-31T11:43:18.904Z",
+                "action": "added"
+            },
+            {
+                "productId": "688b57763ee70b88c9e3a384",
+                "name": "dd",
+                "category": "dd",
+                "price": 33,
+                "stock": 22,
+                "description": "xx",
+                "manufacturer": "qq",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "kl",
+                "batchNo": "332",
+                "imageUrl": "/uploads/1753962358490-download (3).jpeg",
+                "savedAt": "2025-07-31T11:45:58.528Z",
+                "action": "added"
+            },
+            {
+                "productId": "688b57f93e4c90f22844a60f",
+                "name": "xx",
+                "category": "ff",
+                "price": 4,
+                "stock": 4,
+                "description": "x",
+                "manufacturer": "kl",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "lk",
+                "batchNo": "44",
+                "imageUrl": "/uploads/1753962489031-download (2).jpeg",
+                "savedAt": "2025-07-31T11:48:09.070Z"
+            },
+            {
+                "productId": "688b586782849323cd6ec54e",
+                "name": "gucci glasses",
+                "category": "glasses",
+                "price": 99,
+                "stock": 33,
+                "description": "xx",
+                "manufacturer": "iii",
+                "manufacturedAt": "2025-07-31",
+                "sellingLocation": "kl",
+                "batchNo": "33",
+                "imageUrl": "/uploads/1753962599325-download.jpeg",
+                "savedAt": "2025-07-31T11:49:59.364Z"
+            },
+            {
+                "productId": "688c84daeeeb433f64248936",
+                "name": "whiteglasees",
+                "category": "optics",
+                "price": 90,
+                "stock": 18,
+                "description": "x",
+                "manufacturer": "jjjjjj",
+                "manufacturedAt": "2025-08-01",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754039514460-download (2).jpeg",
+                "savedAt": "2025-08-01T09:11:54.485Z",
+                "action": "added"
+            },
+            {
+                "productId": "688dd52ff2f25f0898f82382",
+                "name": "rayban glasses",
+                "category": "optics",
+                "price": 999,
+                "stock": 150,
+                "description": "cc",
+                "manufacturer": "kl",
+                "manufacturedAt": "2025-08-02",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754125615443-download (3).jpeg",
+                "savedAt": "2025-08-02T09:06:55.499Z",
+                "action": "added"
+            },
+            {
+                "productId": "68908f51b896ea651bd6d11a",
+                "name": "black sunglass",
+                "category": "optics",
+                "price": 90,
+                "stock": 99,
+                "description": "xx",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-08-04",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754304337145-download.jpeg",
+                "savedAt": "2025-08-04T10:45:37.193Z",
+                "action": "added"
+            },
+            {
+                "productId": "68943267db5fb2a576b54e8b",
+                "name": "smart glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 120,
+                "description": "x",
+                "manufacturer": "kkk",
+                "manufacturedAt": "2025-08-07",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754542695233-download.jpeg",
+                "savedAt": "2025-08-07T04:58:15.280Z",
+                "action": "added"
+            },
+            {
+                "productId": "689434c2db5fb2a576b54eb4",
+                "name": "jjj",
+                "category": "ooo",
+                "price": 44,
+                "stock": 33,
+                "description": "dd",
+                "manufacturer": "ddd",
+                "manufacturedAt": "2025-08-07",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754543298676-download.jpeg",
+                "savedAt": "2025-08-07T05:08:18.695Z",
+                "action": "added"
+            },
+            {
+                "productId": "689434c2db5fb2a576b54eb4",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:12:24.986Z"
+            },
+            {
+                "productId": "688c84daeeeb433f64248936",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:12:30.797Z"
+            },
+            {
+                "productId": "688b57763ee70b88c9e3a384",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:12:33.258Z"
+            },
+            {
+                "productId": "688b566eb483f45d3269bcf2",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:12:36.948Z"
+            }
+        ],
+        "previousHash": "25debf46afde57e22962f46d5129df9d4d27e8637ca20d46c72bee46c087613e",
+        "miningTimeMs": 0,
+        "hash": "b83872d4d1632db2eb18ce4337ee01476a6d01677b3560da43ee37f16b80ef8b"
+    },
+    {
+        "index": 7,
+        "timestamp": "2025-08-07T05:12:39.627Z",
+        "data": [
+            {
+                "productId": "688b5526b483f45d3269bceb",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:12:39.627Z"
+            },
+            {
+                "productId": "688b317a88c9119e98e9a531",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:12:42.243Z"
+            },
+            {
+                "productId": "688b2f2e88c9119e98e9a52b",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:12:44.959Z"
+            },
+            {
+                "productId": "6889dc1591ff2c7c3be46ec5",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:19.526Z"
+            },
+            {
+                "productId": "6889cbf891ff2c7c3be46eb8",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:22.867Z"
+            },
+            {
+                "productId": "6889e04f91ff2c7c3be46ee6",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:25.676Z"
+            },
+            {
+                "productId": "6889e54c67dcc732a91a95e2",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:29.359Z"
+            },
+            {
+                "productId": "6889cb4591ff2c7c3be46eac",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:32.977Z"
+            },
+            {
+                "productId": "6889e61d67dcc732a91a95e4",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:35.512Z"
+            },
+            {
+                "productId": "6888dabd1f3136562a1705d2",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:47.279Z"
+            },
+            {
+                "productId": "688b57f93e4c90f22844a60f",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:51.640Z"
+            },
+            {
+                "productId": "6889c50e2652d0c56a5dab04",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:55.224Z"
+            },
+            {
+                "productId": "688b4fd9b46624c8c7468c6c",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:13:57.673Z"
+            },
+            {
+                "productId": "6888e86353b6364cc7448c05",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:14:00.087Z"
+            },
+            {
+                "productId": "688dd52ff2f25f0898f82382",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:14:03.042Z"
+            },
+            {
+                "productId": "688b586782849323cd6ec54e",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:14:06.341Z"
+            },
+            {
+                "productId": "688b56d66186a326da1d56f5",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:14:13.076Z"
+            },
+            {
+                "productId": "68908f51b896ea651bd6d11a",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:14:16.010Z"
+            },
+            {
+                "productId": "6888e5492493ab97e90b1876",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:14:19.474Z"
+            },
+            {
+                "productId": "68943267db5fb2a576b54e8b",
+                "action": "deleted",
+                "deletedAt": "2025-08-07T05:14:22.710Z"
+            }
+        ],
+        "previousHash": "b83872d4d1632db2eb18ce4337ee01476a6d01677b3560da43ee37f16b80ef8b",
+        "miningTimeMs": 0,
+        "hash": "55ed11c258ea119ca55ae5d853b658f0f6e0ca01d59fff24c625d24553434009"
+    },
+    {
+        "index": 8,
+        "timestamp": "2025-08-07T05:20:27.165Z",
+        "data": [
+            {
+                "productId": "6894379bdb5fb2a576b54f44",
+                "name": "sunglasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 120,
+                "description": "x",
+                "manufacturer": "kkk",
+                "manufacturedAt": "2025-08-07",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754544027127-download.jpeg",
+                "savedAt": "2025-08-07T05:20:27.165Z",
+                "action": "added"
+            },
+            {
+                "productId": "68943805db5fb2a576b54f4e",
+                "name": "gucci glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 33,
+                "description": "xx",
+                "manufacturer": "kkk",
+                "manufacturedAt": "2025-08-07",
+                "sellingLocation": "kl",
+                "batchNo": "1232",
+                "imageUrl": "/uploads/1754544133653-download (2).jpeg",
+                "savedAt": "2025-08-07T05:22:13.663Z",
+                "action": "added"
+            },
+            {
+                "productId": "68943bdfdb5fb2a576b54f60",
+                "name": "lv glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 90,
+                "description": "x",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-08-07",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754545119519-download.jpeg",
+                "savedAt": "2025-08-07T05:38:39.548Z",
+                "action": "added"
+            },
+            {
+                "productId": "68943cd6db5fb2a576b54f6f",
+                "name": "dior glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 190,
+                "description": "cc",
+                "manufacturer": "rk",
+                "manufacturedAt": "2025-08-07",
+                "sellingLocation": "kl",
+                "batchNo": "01",
+                "imageUrl": "/uploads/1754545366928-download (1).jpeg",
+                "savedAt": "2025-08-07T05:42:46.940Z",
+                "action": "added"
+            },
+            {
+                "productId": "68943d29db5fb2a576b54f7b",
+                "name": "h glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 23,
+                "description": "d",
+                "manufacturer": "kkk",
+                "manufacturedAt": "2025-08-07",
+                "sellingLocation": "kl",
+                "batchNo": "993",
+                "imageUrl": "/uploads/1754545449252-download (1).jpeg",
+                "savedAt": "2025-08-07T05:44:09.272Z",
+                "action": "added"
+            },
+            {
+                "productId": "68943dbcdb5fb2a576b54f87",
+                "name": "dd glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 12,
+                "description": "x",
+                "manufacturer": "jr",
+                "manufacturedAt": "2025-08-07",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754545596635-download (2).jpeg",
+                "savedAt": "2025-08-07T05:46:36.654Z",
+                "action": "added"
+            },
+            {
+                "productId": "68943dbcdb5fb2a576b54f87",
+                "action": "deleted",
+                "deletedAt": "2025-08-08T08:13:00.586Z"
+            },
+            {
+                "productId": "68943d29db5fb2a576b54f7b",
+                "action": "deleted",
+                "deletedAt": "2025-08-08T08:13:06.526Z"
+            },
+            {
+                "productId": "68943805db5fb2a576b54f4e",
+                "action": "deleted",
+                "deletedAt": "2025-08-08T08:13:12.388Z"
+            },
+            {
+                "productId": "68943cd6db5fb2a576b54f6f",
+                "action": "deleted",
+                "deletedAt": "2025-08-08T08:13:27.058Z"
+            },
+            {
+                "productId": "6895b2b344c296f3b35c8af2",
+                "name": "white glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 180,
+                "description": "x",
+                "manufacturer": "ter",
+                "manufacturedAt": "2025-08-08",
+                "sellingLocation": "kl",
+                "batchNo": "092",
+                "imageUrl": "/uploads/1754641075096-download (1).jpeg",
+                "savedAt": "2025-08-08T08:17:55.120Z",
+                "action": "added"
+            },
+            {
+                "productId": "6895de0344c296f3b35c8b01",
+                "name": "glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 190,
+                "description": "xx",
+                "manufacturer": "jjj",
+                "manufacturedAt": "2025-08-08",
+                "sellingLocation": "kl",
+                "batchNo": "021",
+                "imageUrl": "/uploads/1754652163543-download (2).jpeg",
+                "savedAt": "2025-08-08T11:22:43.552Z",
+                "action": "added"
+            },
+            {
+                "productId": "6895df1944c296f3b35c8b07",
+                "name": "jjj",
+                "category": "optics",
+                "price": 90,
+                "stock": 120,
+                "description": "xxx",
+                "manufacturer": "hhhh",
+                "manufacturedAt": "2025-08-08",
+                "sellingLocation": "kl",
+                "batchNo": "773",
+                "imageUrl": "/uploads/1754652441425-download (2).jpeg",
+                "savedAt": "2025-08-08T11:27:21.431Z",
+                "action": "added"
+            },
+            {
+                "productId": "6894379bdb5fb2a576b54f44",
+                "action": "deleted",
+                "deletedAt": "2025-08-09T05:54:53.836Z"
+            },
+            {
+                "productId": "68943bdfdb5fb2a576b54f60",
+                "action": "deleted",
+                "deletedAt": "2025-08-09T05:54:58.176Z"
+            },
+            {
+                "productId": "6895b2b344c296f3b35c8af2",
+                "action": "deleted",
+                "deletedAt": "2025-08-09T05:55:01.226Z"
+            },
+            {
+                "productId": "6895de0344c296f3b35c8b01",
+                "action": "deleted",
+                "deletedAt": "2025-08-09T05:55:04.091Z"
+            },
+            {
+                "productId": "6895df1944c296f3b35c8b07",
+                "action": "deleted",
+                "deletedAt": "2025-08-09T05:55:07.065Z"
+            },
+            {
+                "productId": "6896e30344c296f3b35c8b5a",
+                "name": "lv glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 9,
+                "description": "x",
+                "manufacturer": "LV",
+                "manufacturedAt": "2025-08-09",
+                "sellingLocation": "KL",
+                "batchNo": "092",
+                "imageUrl": "/uploads/1754718979882-download (2).jpeg",
+                "savedAt": "2025-08-09T05:56:19.893Z",
+                "action": "added"
+            },
+            {
+                "productId": "6896e622890996e75740b210",
+                "name": "Rayban sunglasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 9,
+                "description": "x",
+                "manufacturer": "jjj",
+                "manufacturedAt": "2025-08-09",
+                "sellingLocation": "kl",
+                "batchNo": "ooo",
+                "imageUrl": "/uploads/1754719778897-download.jpeg",
+                "savedAt": "2025-08-09T06:09:38.919Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "55ed11c258ea119ca55ae5d853b658f0f6e0ca01d59fff24c625d24553434009",
+        "miningTimeMs": 0,
+        "hash": "5e06390aa142a42dde804bea6ef7bf1d00a8937bc26afc3f2a1585284f0b1b79"
+    },
+    {
+        "index": 9,
+        "timestamp": "2025-08-09T07:24:31.055Z",
+        "data": [
+            {
+                "productId": "6896f7af890996e75740b27f",
+                "name": "Versace Glasses",
+                "category": "OPtics",
+                "price": 90,
+                "stock": 8,
+                "description": "x",
+                "manufacturer": "versace",
+                "manufacturedAt": "2025-08-09",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754724271044-download (1).jpeg",
+                "savedAt": "2025-08-09T07:24:31.055Z",
+                "action": "added"
+            },
+            {
+                "productId": "6896fd4c890996e75740b2bb",
+                "name": "prada glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 180,
+                "description": "xx",
+                "manufacturer": "prada",
+                "manufacturedAt": "2025-08-09",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754725708472-download.jpeg",
+                "savedAt": "2025-08-09T07:48:28.484Z",
+                "action": "added"
+            },
+            {
+                "productId": "689709bc890996e75740b3f0",
+                "name": "Rayban eyeglasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 7,
+                "description": "x",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-08-09",
+                "sellingLocation": "kl",
+                "batchNo": "0112",
+                "imageUrl": "/uploads/1754728892216-download.jpeg",
+                "savedAt": "2025-08-09T08:41:32.232Z",
+                "action": "added"
+            },
+            {
+                "productId": "68970bb5890996e75740b467",
+                "name": "eye frame",
+                "category": "optics",
+                "price": 80,
+                "stock": 3,
+                "description": "x",
+                "manufacturer": "masterpiece",
+                "manufacturedAt": "2025-08-09",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1754729397748-download.jpeg",
+                "savedAt": "2025-08-09T08:49:57.762Z",
+                "action": "added"
+            },
+            {
+                "productId": "689c6811b01e7aa62f572c5a",
+                "name": "White frame",
+                "category": "OPtics",
+                "price": 90,
+                "stock": 9,
+                "description": "Z",
+                "manufacturer": "Rayban",
+                "manufacturedAt": "2025-08-13",
+                "sellingLocation": "KL",
+                "batchNo": "011",
+                "imageUrl": "/uploads/1755080721954-download (2).jpeg",
+                "savedAt": "2025-08-13T10:25:21.999Z",
+                "action": "added"
+            },
+            {
+                "productId": "689c69ecb01e7aa62f572cad",
+                "name": "frame",
+                "category": "optics",
+                "price": 9,
+                "stock": 10,
+                "description": "x",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-08-13",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1755081196664-download (1).jpeg",
+                "savedAt": "2025-08-13T10:33:16.686Z",
+                "action": "added"
+            },
+            {
+                "productId": "689c6f60b01e7aa62f572cc4",
+                "name": "glasssssess",
+                "category": "optics",
+                "price": 90,
+                "stock": 5,
+                "description": "x",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-08-13",
+                "sellingLocation": "kl",
+                "batchNo": "012",
+                "imageUrl": "/uploads/1755082592776-Image.jpeg",
+                "savedAt": "2025-08-13T10:56:32.789Z",
+                "action": "added"
+            },
+            {
+                "productId": "689c7eb7b01e7aa62f572ccb",
+                "name": "glasses",
+                "category": "optics",
+                "price": 9,
+                "stock": 10,
+                "description": "xx",
+                "manufacturer": "kl",
+                "manufacturedAt": "2025-08-13",
+                "sellingLocation": "kl",
+                "batchNo": "021",
+                "imageUrl": "/uploads/1755086519235-download (2).jpeg",
+                "savedAt": "2025-08-13T12:01:59.260Z",
+                "action": "added"
+            },
+            {
+                "productId": "689c801ab01e7aa62f572cd1",
+                "name": "glasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 10,
+                "description": "x",
+                "manufacturer": "kl",
+                "manufacturedAt": "2025-08-14",
+                "sellingLocation": "kl",
+                "batchNo": "920",
+                "imageUrl": "/uploads/1755086874007-download.jpeg",
+                "savedAt": "2025-08-13T12:07:54.027Z",
+                "action": "added"
+            },
+            {
+                "productId": "689c818bb01e7aa62f572cd7",
+                "name": "eyeglasses",
+                "category": "optics",
+                "price": 90,
+                "stock": 190,
+                "description": "x",
+                "manufacturer": "kl",
+                "manufacturedAt": "2025-08-13",
+                "sellingLocation": "kl",
+                "batchNo": "991",
+                "imageUrl": "/uploads/1755087243094-download (1).jpeg",
+                "savedAt": "2025-08-13T12:14:03.105Z",
+                "action": "added"
+            },
+            {
+                "productId": "689c823db01e7aa62f572cdd",
+                "name": "wgite lens",
+                "category": "optics",
+                "price": 90,
+                "stock": 8,
+                "description": "x",
+                "manufacturer": "iiii",
+                "manufacturedAt": "2025-08-13",
+                "sellingLocation": "kl",
+                "batchNo": "99",
+                "imageUrl": "/uploads/1755087421724-download (2).jpeg",
+                "savedAt": "2025-08-13T12:17:01.746Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "5e06390aa142a42dde804bea6ef7bf1d00a8937bc26afc3f2a1585284f0b1b79",
+        "miningTimeMs": 0,
+        "hash": "e26d93ae722a86002fb9ce10c7501a26ed8d19829a13969397ee75420d4b9dd8"
+    },
+    {
+        "index": 10,
+        "timestamp": "2025-09-01T12:13:17.874Z",
+        "data": [
+            {
+                "productId": "68b58dddfd98ff19fb1cc08d",
+                "name": "Brown glasses",
+                "category": "Optics",
+                "price": 90,
+                "stock": 9,
+                "description": "the glasses are made from titanium and have a matt finish",
+                "manufacturer": "Rayban",
+                "manufacturedAt": "2025-09-01",
+                "sellingLocation": "kl",
+                "batchNo": "098",
+                "imageUrl": "/uploads/1756728797834-Image.jpeg",
+                "savedAt": "2025-09-01T12:13:17.874Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "e26d93ae722a86002fb9ce10c7501a26ed8d19829a13969397ee75420d4b9dd8",
+        "nonce": 23664,
+        "miningTimeMs": 84,
+        "hash": "000060f164e12a9b9d291abc0fa4667f3b1391710424dceb86f8a7fa0abe7058"
+    },
+    {
+        "index": 11,
+        "timestamp": "2025-09-01T19:42:02.509Z",
+        "data": [
+            {
+                "productId": "68b58dddfd98ff19fb1cc08d",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:29.953Z"
+            },
+            {
+                "productId": "68ac79dca812de94d254af08",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:33.573Z"
+            },
+            {
+                "productId": "68a7e37a65d2f77631646b9b",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:36.743Z"
+            },
+            {
+                "productId": "68a7e29f65d2f77631646b95",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:40.347Z"
+            },
+            {
+                "productId": "68a362531304509fdc98e2ce",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:43.453Z"
+            },
+            {
+                "productId": "689c823db01e7aa62f572cdd",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:45.951Z"
+            },
+            {
+                "productId": "689c801ab01e7aa62f572cd1",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:50.767Z"
+            },
+            {
+                "productId": "689c7eb7b01e7aa62f572ccb",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:53.697Z"
+            },
+            {
+                "productId": "689c6f60b01e7aa62f572cc4",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:56.165Z"
+            },
+            {
+                "productId": "689c69ecb01e7aa62f572cad",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:39:58.702Z"
+            },
+            {
+                "productId": "689c6811b01e7aa62f572c5a",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:01.499Z"
+            },
+            {
+                "productId": "68970bb5890996e75740b467",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:05.619Z"
+            },
+            {
+                "productId": "68ac849249043902f9a06b2b",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:08.999Z"
+            },
+            {
+                "productId": "68ac48b8694a622452352fbe",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:12.636Z"
+            },
+            {
+                "productId": "68b46ad42035cb163b01421e",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:17.735Z"
+            },
+            {
+                "productId": "68afb7072942543f2233da58",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:21.334Z"
+            },
+            {
+                "productId": "68ac9451afd8df676e5fa222",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:25.046Z"
+            },
+            {
+                "productId": "68ac87f32b340de504a7832d",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:29.905Z"
+            },
+            {
+                "productId": "689709bc890996e75740b3f0",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:34.369Z"
+            },
+            {
+                "productId": "6896e30344c296f3b35c8b5a",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:37.166Z"
+            },
+            {
+                "productId": "6896e622890996e75740b210",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:39.822Z"
+            },
+            {
+                "productId": "6896f7af890996e75740b27f",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:43.566Z"
+            },
+            {
+                "productId": "6896fd4c890996e75740b2bb",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:47.867Z"
+            },
+            {
+                "productId": "68ac487d694a622452352fba",
+                "action": "deleted",
+                "deletedAt": "2025-09-01T19:40:51.020Z"
+            },
+            {
+                "productId": "68b5f70a1baea02d1a007a83",
+                "name": "brown glasses",
+                "category": "Optics",
+                "price": 90,
+                "stock": 30,
+                "description": "the glasses are made from titanium and have a matt finish",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-09-01",
+                "sellingLocation": "kl",
+                "batchNo": "0990",
+                "imageUrl": "/uploads/1756755722478-Image.jpeg",
+                "savedAt": "2025-09-01T19:42:02.509Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "000060f164e12a9b9d291abc0fa4667f3b1391710424dceb86f8a7fa0abe7058",
+        "nonce": 45372,
+        "miningTimeMs": 365,
+        "hash": "000005d2f892611c24effd3963b9934627780f18c5e7b243ac1f590ec916553f"
+    },
+    {
+        "index": 12,
+        "timestamp": "2025-09-02T09:53:40.704Z",
+        "data": [
+            {
+                "productId": "68b6bea4857f3557b1df8032",
+                "name": "white glasses",
+                "category": "Optics",
+                "price": 1000,
+                "stock": 9,
+                "description": "a pair of glasses on a white background",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-09-02",
+                "sellingLocation": "kl",
+                "batchNo": "099",
+                "imageUrl": "/uploads/1756806820656-download (1).jpeg",
+                "savedAt": "2025-09-02T09:53:40.704Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "000005d2f892611c24effd3963b9934627780f18c5e7b243ac1f590ec916553f",
+        "nonce": 96575,
+        "miningTimeMs": 203,
+        "hash": "00004a0f109ae3edd8d5aebb8cdc616b348630884d3b818b191acce31a362154"
+    },
+    {
+        "index": 13,
+        "timestamp": "2025-09-02T10:02:11.499Z",
+        "data": [
+            {
+                "productId": "68b6bea4857f3557b1df8032",
+                "action": "deleted",
+                "deletedAt": "2025-09-02T10:01:14.952Z"
+            },
+            {
+                "productId": "68b6c0a3857f3557b1df804d",
+                "name": "Orange t - shirt",
+                "category": "Clothing",
+                "price": 90,
+                "stock": 88,
+                "description": "an orange t - shirt",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-09-02",
+                "sellingLocation": "lv ",
+                "batchNo": "099",
+                "imageUrl": "/uploads/1756807331475-images (1).jpeg",
+                "savedAt": "2025-09-02T10:02:11.499Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "00004a0f109ae3edd8d5aebb8cdc616b348630884d3b818b191acce31a362154",
+        "nonce": 25273,
+        "miningTimeMs": 97,
+        "hash": "0000cf2faec3c28f4015ad7a854672f8236c5afe640f8fbc50295c664ae4489e"
+    },
+    {
+        "index": 14,
+        "timestamp": "2025-09-02T10:03:44.428Z",
+        "data": [
+            {
+                "productId": "68b6c0a3857f3557b1df804d",
+                "action": "deleted",
+                "deletedAt": "2025-09-02T10:03:09.698Z"
+            },
+            {
+                "productId": "68b6c100857f3557b1df8056",
+                "name": "2 glasses",
+                "category": "Optics",
+                "price": 88,
+                "stock": 65,
+                "description": "a pair of glasses",
+                "manufacturer": "yyyy",
+                "manufacturedAt": "2025-09-02",
+                "sellingLocation": "jj",
+                "batchNo": "90",
+                "imageUrl": "/uploads/1756807424392-download.jpeg",
+                "savedAt": "2025-09-02T10:03:44.427Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000cf2faec3c28f4015ad7a854672f8236c5afe640f8fbc50295c664ae4489e",
+        "nonce": 24337,
+        "miningTimeMs": 98,
+        "hash": "0000ad74806ccc88e4650f161d7701c8e6bad5676c5f0a98869c2202dbf43b3a"
+    },
+    {
+        "index": 15,
+        "timestamp": "2025-09-02T11:39:56.898Z",
+        "data": [
+            {
+                "productId": "68b6c100857f3557b1df8056",
+                "action": "deleted",
+                "deletedAt": "2025-09-02T10:05:52.441Z"
+            },
+            {
+                "productId": "68b6d78c857f3557b1df80bf",
+                "name": "lv glass",
+                "category": "Optics",
+                "price": 900,
+                "stock": 9,
+                "description": "a pair of glasses",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-09-02",
+                "sellingLocation": "lv kl",
+                "batchNo": "098",
+                "imageUrl": "/uploads/1756813196860-images.jpeg",
+                "savedAt": "2025-09-02T11:39:56.897Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000ad74806ccc88e4650f161d7701c8e6bad5676c5f0a98869c2202dbf43b3a",
+        "nonce": 129102,
+        "miningTimeMs": 294,
+        "hash": "0000610f7cde7b9f692ec899ead0ff723ca14a8125c90577b7d30783beefaad4"
+    },
+    {
+        "index": 16,
+        "timestamp": "2025-09-02T13:09:16.761Z",
+        "data": [
+            {
+                "productId": "68b6d78c857f3557b1df80bf",
+                "action": "deleted",
+                "deletedAt": "2025-09-02T12:37:37.123Z"
+            },
+            {
+                "productId": "68b6ec7c7098589b8b57b4c6",
+                "name": "gold glasses",
+                "category": "Optics",
+                "price": 34,
+                "stock": 84,
+                "description": "a pair of glasses on a green surface",
+                "manufacturer": "gucci",
+                "manufacturedAt": "2025-09-02",
+                "sellingLocation": "kl",
+                "batchNo": "8585",
+                "imageUrl": "/uploads/1756818556716-download (2).jpeg",
+                "savedAt": "2025-09-02T13:09:16.761Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000610f7cde7b9f692ec899ead0ff723ca14a8125c90577b7d30783beefaad4",
+        "nonce": 10656,
+        "miningTimeMs": 63,
+        "hash": "00000771c0109159e36b79d54bdfdf135b8a2803428059b1a2718e3e6783aaca"
+    },
+    {
+        "index": 17,
+        "timestamp": "2025-09-06T11:32:12.698Z",
+        "data": [
+            {
+                "productId": "68bc1bbc6a0e18b982be383b",
+                "name": "Pair",
+                "category": "Optics",
+                "price": 444,
+                "stock": 55,
+                "description": "a pair of glasses",
+                "manufacturer": "rrrr",
+                "manufacturedAt": "2025-09-06",
+                "sellingLocation": "ff",
+                "batchNo": "444",
+                "imageUrl": "/uploads/1757158332652-images.jpeg",
+                "savedAt": "2025-09-06T11:32:12.698Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "00000771c0109159e36b79d54bdfdf135b8a2803428059b1a2718e3e6783aaca",
+        "nonce": 787,
+        "miningTimeMs": 7,
+        "hash": "0000b38156acf6e790292bc6b337a8e8e9157df0a42f6999542ef859bda36586"
+    },
+    {
+        "index": 18,
+        "timestamp": "2025-09-06T11:33:29.654Z",
+        "data": [
+            {
+                "productId": "68bc1bbc6a0e18b982be383b",
+                "action": "deleted",
+                "deletedAt": "2025-09-06T11:32:35.569Z"
+            },
+            {
+                "productId": "68b6ec7c7098589b8b57b4c6",
+                "action": "deleted",
+                "deletedAt": "2025-09-06T11:32:45.596Z"
+            },
+            {
+                "productId": "68bc1c096a0e18b982be3850",
+                "name": "brown glasses",
+                "category": "Optics",
+                "price": 89,
+                "stock": 90,
+                "description": "the glasses are made from titanium and have a matt finish",
+                "manufacturer": "louis vuitton",
+                "manufacturedAt": "2025-09-06",
+                "sellingLocation": "kl",
+                "batchNo": "0998",
+                "imageUrl": "/uploads/1757158409628-Image.jpeg",
+                "savedAt": "2025-09-06T11:33:29.653Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000b38156acf6e790292bc6b337a8e8e9157df0a42f6999542ef859bda36586",
+        "nonce": 13192,
+        "miningTimeMs": 84,
+        "hash": "0000c4e5504b120cb33dcfd22ca3d8c49176f42868c549bc519879e1176388cd"
+    },
+    {
+        "index": 19,
+        "timestamp": "2025-09-07T08:58:58.461Z",
+        "data": [
+            {
+                "productId": "68bd4952e01e6a859e498c09",
+                "name": "green glasses",
+                "category": "Optics",
+                "price": 90,
+                "stock": 80,
+                "description": "{\"caption\": \"a pair of glasses on a green surface\"}",
+                "manufacturer": "gucci",
+                "manufacturedAt": "2025-09-07",
+                "sellingLocation": "kl",
+                "batchNo": "90",
+                "imageUrl": "/uploads/1757235538429-download (2).jpeg",
+                "savedAt": "2025-09-07T08:58:58.460Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000c4e5504b120cb33dcfd22ca3d8c49176f42868c549bc519879e1176388cd",
+        "nonce": 34284,
+        "miningTimeMs": 95,
+        "hash": "00002a7d6d6b6c2741d2ac2ab0c9ec3eb5a798195b157c586d0954b68a7fd832"
+    },
+    {
+        "index": 20,
+        "timestamp": "2025-09-07T09:13:29.571Z",
+        "data": [
+            {
+                "productId": "68bd4cb9e01e6a859e498c0e",
+                "name": "glasses ",
+                "category": "Optics",
+                "price": 90,
+                "stock": 78,
+                "description": "\"a pair of glasses\"}",
+                "manufacturer": "ray ban",
+                "manufacturedAt": "2025-09-07",
+                "sellingLocation": "pavilion",
+                "batchNo": "0988",
+                "imageUrl": "/uploads/1757236409530-images.jpeg",
+                "savedAt": "2025-09-07T09:13:29.571Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "00002a7d6d6b6c2741d2ac2ab0c9ec3eb5a798195b157c586d0954b68a7fd832",
+        "nonce": 91771,
+        "miningTimeMs": 226,
+        "hash": "00001a372537cd11f1bdee17e42ef643e1bdc2825aaf54bbb08aba71471ce802"
+    },
+    {
+        "index": 21,
+        "timestamp": "2025-09-07T09:16:49.355Z",
+        "data": [
+            {
+                "productId": "68bd4cb9e01e6a859e498c0e",
+                "action": "deleted",
+                "deletedAt": "2025-09-07T09:15:56.823Z"
+            },
+            {
+                "productId": "68bd4d81e01e6a859e498c3a",
+                "name": "2glassses",
+                "category": "Optics",
+                "price": 45,
+                "stock": 77,
+                "description": "{\"caption\": \"a pair of glasses\"}",
+                "manufacturer": "ggg",
+                "manufacturedAt": "2025-09-07",
+                "sellingLocation": "kl",
+                "batchNo": "666",
+                "imageUrl": "/uploads/1757236609339-download.jpeg",
+                "savedAt": "2025-09-07T09:16:49.355Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "00001a372537cd11f1bdee17e42ef643e1bdc2825aaf54bbb08aba71471ce802",
+        "nonce": 162900,
+        "miningTimeMs": 371,
+        "hash": "0000a1bba955ea5c4bd781ad108f9bd734fb122919a60f9149702e6b7aa7ed4e"
+    },
+    {
+        "index": 22,
+        "timestamp": "2025-09-07T11:52:26.001Z",
+        "data": [
+            {
+                "productId": "68bc1c096a0e18b982be3850",
+                "action": "deleted",
+                "deletedAt": "2025-09-07T11:48:58.335Z"
+            },
+            {
+                "productId": "68bd4952e01e6a859e498c09",
+                "action": "deleted",
+                "deletedAt": "2025-09-07T11:49:03.027Z"
+            },
+            {
+                "productId": "68bd4d81e01e6a859e498c3a",
+                "action": "deleted",
+                "deletedAt": "2025-09-07T11:49:07.934Z"
+            },
+            {
+                "productId": "68bd70243620af72ee64f5ce",
+                "action": "deleted",
+                "deletedAt": "2025-09-07T11:49:11.069Z"
+            },
+            {
+                "productId": "68bd71f929ee6fcfe9fb9461",
+                "name": "lv shoes",
+                "category": "General",
+                "price": 99,
+                "stock": 90,
+                "description": "{\"caption\": \"a pair of white sneakers with black and gold accents\"}",
+                "manufacturer": "lvvvvvvv",
+                "manufacturedAt": "2025-09-07",
+                "sellingLocation": "kkkkklllllllll",
+                "batchNo": "9999",
+                "imageUrl": "/uploads/1757245945977-louis-vuitton-charlie-sneaker-sustainability-recycled-natural-materials-unisex-twfb-2.jpg",
+                "savedAt": "2025-09-07T11:52:26.001Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000a1bba955ea5c4bd781ad108f9bd734fb122919a60f9149702e6b7aa7ed4e",
+        "nonce": 4175,
+        "miningTimeMs": 35,
+        "hash": "00003a70064cc764183626f3bf7bee2804e20745f428450582d5708f78100af2"
+    },
+    {
+        "index": 23,
+        "timestamp": "2025-09-09T08:43:52.823Z",
+        "data": [
+            {
+                "productId": "68bfe8c8c23f294cf73f36da",
+                "name": "glasssesss",
+                "category": "Optics",
+                "price": 98,
+                "stock": 89,
+                "description": "{\"caption\": \"a pair of glasses on a green surface\"}",
+                "manufacturer": "kkk",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "jj",
+                "batchNo": "890",
+                "imageUrl": "/uploads/1757407432781-download (2).jpeg",
+                "savedAt": "2025-09-09T08:43:52.823Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "00003a70064cc764183626f3bf7bee2804e20745f428450582d5708f78100af2",
+        "nonce": 77413,
+        "miningTimeMs": 179,
+        "hash": "0000102ef8cf979278e16ee76b7d428da3b35a30fe532d7efb5ab27faac11fd3"
+    },
+    {
+        "index": 24,
+        "timestamp": "2025-09-09T08:49:22.207Z",
+        "data": [
+            {
+                "productId": "68bfea12c23f294cf73f36e2",
+                "name": "brown glasses",
+                "category": "Optics",
+                "price": 90,
+                "stock": 90,
+                "description": "{\"caption\": \"the glasses are made from titanium and have a matt finish\"}",
+                "manufacturer": "gucci",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "kl",
+                "batchNo": "900",
+                "imageUrl": "/uploads/1757407762182-Image.jpeg",
+                "savedAt": "2025-09-09T08:49:22.207Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000102ef8cf979278e16ee76b7d428da3b35a30fe532d7efb5ab27faac11fd3",
+        "nonce": 51268,
+        "miningTimeMs": 145,
+        "hash": "0000df82260773106acf6e8a79921e536a27a2843aec963de0d0ce54a967581d"
+    },
+    {
+        "index": 25,
+        "timestamp": "2025-09-09T08:50:37.991Z",
+        "data": [
+            {
+                "productId": "68bfea5dc23f294cf73f36e7",
+                "name": "green glasses",
+                "category": "Optics",
+                "price": 8,
+                "stock": 999,
+                "description": "{\"caption\": \"a pair of glasses on a green surface\"}",
+                "manufacturer": "jjjj",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "kl",
+                "batchNo": "99009",
+                "imageUrl": "/uploads/1757407837975-download (2).jpeg",
+                "savedAt": "2025-09-09T08:50:37.990Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000df82260773106acf6e8a79921e536a27a2843aec963de0d0ce54a967581d",
+        "nonce": 13912,
+        "miningTimeMs": 52,
+        "hash": "00008b48eda784b86397ecc81fb972462bb3d0af52e62c58825295c9ad8ec43b"
+    },
+    {
+        "index": 26,
+        "timestamp": "2025-09-09T09:06:01.696Z",
+        "data": [
+            {
+                "productId": "68bfedf95012d0c33cac9524",
+                "name": "gllasess white ray bana",
+                "category": "Optics",
+                "price": 44,
+                "stock": 9,
+                "description": "{\"caption\": \"a pair of glasses\"}",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "jjjjjjjj",
+                "batchNo": "894585",
+                "imageUrl": "/uploads/1757408761659-download.jpeg",
+                "savedAt": "2025-09-09T09:06:01.696Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "00008b48eda784b86397ecc81fb972462bb3d0af52e62c58825295c9ad8ec43b",
+        "nonce": 67824,
+        "miningTimeMs": 161,
+        "hash": "0000439423b27da0c946bcbf2def40e4a3ccb9c05bab588a14b6fa9562d3da23"
+    },
+    {
+        "index": 27,
+        "timestamp": "2025-09-09T10:13:04.356Z",
+        "data": [
+            {
+                "productId": "68bffdb05012d0c33cac952a",
+                "name": "brown glasses",
+                "category": "Optics",
+                "price": 77,
+                "stock": 90,
+                "description": "{\"caption\": \"the glasses are made from titanium and have a matt finish\"}",
+                "manufacturer": "rayban",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "kkkkk",
+                "batchNo": "09996",
+                "imageUrl": "/uploads/1757412784339-Image.jpeg",
+                "savedAt": "2025-09-09T10:13:04.355Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000439423b27da0c946bcbf2def40e4a3ccb9c05bab588a14b6fa9562d3da23",
+        "nonce": 115537,
+        "miningTimeMs": 243,
+        "hash": "0000dd27cd65c2325e5c5e0789dcd43074fb4402b4095aa1be38fdecbbbf172f"
+    },
+    {
+        "index": 28,
+        "timestamp": "2025-09-09T10:18:02.925Z",
+        "data": [
+            {
+                "productId": "68bffdb05012d0c33cac952a",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:13:49.440Z"
+            },
+            {
+                "productId": "68bfedf95012d0c33cac9524",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:15:14.776Z"
+            },
+            {
+                "productId": "68bd71f929ee6fcfe9fb9461",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:15:18.458Z"
+            },
+            {
+                "productId": "68befb4812ea90084d52c470",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:15:21.118Z"
+            },
+            {
+                "productId": "68beff9c12ea90084d52c478",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:15:23.874Z"
+            },
+            {
+                "productId": "68beffdd12ea90084d52c47d",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:15:26.543Z"
+            },
+            {
+                "productId": "68bf02e712ea90084d52c488",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:15:29.207Z"
+            },
+            {
+                "productId": "68bfea12c23f294cf73f36e2",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:15:40.144Z"
+            },
+            {
+                "productId": "68bfe8c8c23f294cf73f36da",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:15:45.223Z"
+            },
+            {
+                "productId": "68bfea5dc23f294cf73f36e7",
+                "action": "deleted",
+                "deletedAt": "2025-09-09T10:15:48.094Z"
+            },
+            {
+                "productId": "68bffeda5012d0c33cac9596",
+                "name": "green glasses",
+                "category": "Optics",
+                "price": 90,
+                "stock": 90,
+                "description": "{\"caption\": \"a pair of glasses on a green surface\"}",
+                "manufacturer": "jja",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "kkk",
+                "batchNo": "90",
+                "imageUrl": "/uploads/1757413082912-download (2).jpeg",
+                "savedAt": "2025-09-09T10:18:02.925Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000dd27cd65c2325e5c5e0789dcd43074fb4402b4095aa1be38fdecbbbf172f",
+        "nonce": 43543,
+        "miningTimeMs": 218,
+        "hash": "00000b27eb6a7aa38763ecf392e51377ec3c8f50f8a63b0415a5605abe92eb61"
+    },
+    {
+        "index": 29,
+        "timestamp": "2025-09-09T19:01:36.855Z",
+        "data": [
+            {
+                "productId": "68c079903d9a6bfdb88d6638",
+                "name": "orange shirt",
+                "category": "Clothing",
+                "price": 9,
+                "stock": 90,
+                "description": "{\"caption\": \"an orange t - shirt\"}",
+                "manufacturer": "lv",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "kl",
+                "batchNo": "900900",
+                "imageUrl": "/uploads/1757444496826-images (1).jpeg",
+                "savedAt": "2025-09-09T19:01:36.855Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "00000b27eb6a7aa38763ecf392e51377ec3c8f50f8a63b0415a5605abe92eb61",
+        "nonce": 101062,
+        "miningTimeMs": 227,
+        "hash": "0000da0e2f1d436d4ac8db76ca39f96865b2cb667babe99268a8ee86c93e63c7"
+    },
+    {
+        "index": 30,
+        "timestamp": "2025-09-09T19:03:37.796Z",
+        "data": [
+            {
+                "productId": "68c07a093d9a6bfdb88d663d",
+                "name": "fine water bottle",
+                "category": "Beverage",
+                "price": 89,
+                "stock": 90,
+                "description": "{\"caption\": \"a bottle of water with the word fine on it\"}",
+                "manufacturer": "fine",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "kl",
+                "batchNo": "9000",
+                "imageUrl": "/uploads/1757444617771-r-fine-10.jpg",
+                "savedAt": "2025-09-09T19:03:37.796Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000da0e2f1d436d4ac8db76ca39f96865b2cb667babe99268a8ee86c93e63c7",
+        "nonce": 45834,
+        "miningTimeMs": 131,
+        "hash": "00008629fd479335edbfcc65d0d26e30faf406ba4f8311bbaf3472628bb12dca"
+    },
+    {
+        "index": 31,
+        "timestamp": "2025-09-09T19:06:33.249Z",
+        "data": [
+            {
+                "productId": "68c07ab93d9a6bfdb88d6642",
+                "name": "a bottle",
+                "category": "Beverage",
+                "price": 89,
+                "stock": 90,
+                "description": "{\"caption\": \"a bottle of coca cola\"}",
+                "manufacturer": "Coca Cola",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "kl",
+                "batchNo": "9000",
+                "imageUrl": "/uploads/1757444793226-download (4).jpeg",
+                "savedAt": "2025-09-09T19:06:33.249Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "00008629fd479335edbfcc65d0d26e30faf406ba4f8311bbaf3472628bb12dca",
+        "nonce": 55439,
+        "miningTimeMs": 147,
+        "hash": "0000678ea617ce0146663883f8537fe80ed16a0141d85886130d7ca71135d0d0"
+    },
+    {
+        "index": 32,
+        "timestamp": "2025-09-09T20:46:31.430Z",
+        "data": [
+            {
+                "productId": "68c09227e21e5e1a4baed640",
+                "name": "nike red shoes",
+                "category": "Apparel",
+                "price": 90,
+                "stock": 190,
+                "description": "a pair of red and white shoes on a red background",
+                "manufacturer": "nike",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "nike kl",
+                "batchNo": "9909",
+                "imageUrl": "/uploads/1757450791403-download (3).jpeg",
+                "savedAt": "2025-09-09T20:46:31.430Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "0000678ea617ce0146663883f8537fe80ed16a0141d85886130d7ca71135d0d0",
+        "nonce": 25671,
+        "miningTimeMs": 83,
+        "hash": "000017894efea8075a805ce71047a3e0cd2f82143af490f54470923367db83d2"
+    },
+    {
+        "index": 33,
+        "timestamp": "2025-09-09T21:38:44.392Z",
+        "data": [
+            {
+                "productId": "68c09e64e21e5e1a4baed645",
+                "name": "gucci glasses",
+                "category": "Optics",
+                "price": 99,
+                "stock": 90,
+                "description": "a pair of glasses on a green surface",
+                "manufacturer": "guccccci",
+                "manufacturedAt": "2025-09-09",
+                "sellingLocation": "kl",
+                "batchNo": "098",
+                "imageUrl": "/uploads/1757453924326-download (2).jpeg",
+                "savedAt": "2025-09-09T21:38:44.392Z",
+                "action": "added"
+            }
+        ],
+        "previousHash": "000017894efea8075a805ce71047a3e0cd2f82143af490f54470923367db83d2",
+        "nonce": 4989,
+        "miningTimeMs": 46,
+        "hash": "0000631baeabfebb2a0ddbd74de41eecde473924223aed273d9f9fbe14e6a22c"
+    }
+]
