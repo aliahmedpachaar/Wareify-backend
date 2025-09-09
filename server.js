@@ -698,11 +698,18 @@ app.post('/mine-transactions', authenticateToken, authorizeRole(['admin']), (req
     }
 });
 // --- RFID over USB Serial ---
-const port = new SerialPort({ path: "/dev/cu.usbserial-0001", baudRate: 115200 }); // Windows: COM3, Linux/Mac: /dev/ttyUSB0
-const parser = port.pipe(new ReadlineParser({ delimiter: "\n" }));
+if (process.env.USE_SERIAL === "true") {
+  const { SerialPort, ReadlineParser } = require("serialport");
 
-let latestRfid = null;
-let waitingForAssignment = false;
+  const port = new SerialPort({ 
+    path: process.env.SERIAL_PORT_PATH || "/dev/cu.usbserial-0001", 
+    baudRate: 115200  // use 115200 (matches your ESP32)
+  });
+
+  const parser = port.pipe(new ReadlineParser({ delimiter: "\n" }));
+
+  let latestRfid = null;
+  let waitingForAssignment = false;
 
 // Listen for RFID scans from ESP32
 parser.on("data", (data) => {
