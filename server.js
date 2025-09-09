@@ -16,7 +16,7 @@ const QRCode = require('qrcode');
 // --- Import your Mongoose Models ---
 const User = require('./models/User');
 const Product = require('./models/Product');
-const Shipment = require('./models/Shipment'); // <-- ADD THIS LINE
+const Shipment = require('./models/shipment'); // <-- ADD THIS LINE
 
 // --- Import your blockchain instance ---
 const blockchain = require('./blockchain');
